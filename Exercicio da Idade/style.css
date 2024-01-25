@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+    background: rgb(123, 161, 121);
+
+}
+
+header{
+    text-align: center;
+
+}
+
+section{
+    text-align: center;
+    background: white;
+    padding: 10px;
+    border-radius: 25px;
+    height: auto;
+    margin: auto;
+} 
+
+img#foto{
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+    padding: 2%;
+}
+
+
+footer{
+    text-align: center;
+}
